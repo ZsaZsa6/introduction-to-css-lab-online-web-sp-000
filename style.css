@@ -14,5 +14,5 @@ div { margin: auto; width: 700px; font-family: "Helvetica Neue"; background: whi
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+  font-style: italic
 }
